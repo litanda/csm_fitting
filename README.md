@@ -8,3 +8,5 @@ The detailed modelling of stellar oscillations is a powerful approach to charact
 
 # Contents
 
+1. Please start with the jupyter notebook named '1_study_note.ipynb' to understand the underlying priciple of the correlated systematic model. 
+2. An application of the method is demostrated in the notebook named '2_fitting_a_fake_star.ipynb'.
