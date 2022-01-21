@@ -1,4 +1,4 @@
-# Fitting oscillation mode frequencies with a correlated systematic model (CSM)
+# Fitting oscillation mode frequencies with a Correlated Systematic Noise Model (CSNM)
 
 # Overview
 
@@ -8,6 +8,6 @@ The detailed modelling of stellar oscillations is a powerful approach to charact
 
 # Understand the method
 
-0. Please start with the paper (link to be update) for detailed descriptions of the method.
+0. Please start with the paper (link to be update) for detailed descriptions of the method and why we want this noise model in the asteroseismic fitting.
 1. The jupyter notebook named '1_study_note.ipynb' demostrates the underlying priciple of the correlated systematic nosie model. 
 2. An application of the method to a fake star is demostrated in the notebook named '2_fitting_a_fake_star.ipynb'.
