@@ -1,4 +1,4 @@
-# Fitting oscillation mode frequencies with a correlated systematic model
+# Fitting oscillation mode frequencies with a correlated systematic model (CSM)
 
 # Overview
 
